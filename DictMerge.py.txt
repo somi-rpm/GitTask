@@ -1,3 +1,4 @@
+# Merge the given two dictionaries using FOR Loop 
 dict1 = { 'Sourabh' : 27,      # given the first dictionary in key-value pairs  
             'Ankur' : 22,  
             'Ankit' : 29,  
